@@ -1,0 +1,31 @@
+{
+  "villageId": "00ebc425-074c-466f-ab2d-5aa2efa445aa",
+  "exportedAt": "2026-09-20T13:05:12.097Z",
+  "format": "jsonl.gz",
+  "smokeTestLimitPerTable": null,
+  "droppedColumns": {
+    "computer_use_turns": [
+      "base64_image",
+      "redaction_reason"
+    ],
+    "agents": [
+      "computer_use_url",
+      "runner_url"
+    ]
+  },
+  "rowCounts": {
+    "villages": 1,
+    "village_goals": 51,
+    "agents": 46,
+    "agent_goals": 33,
+    "chat_rooms": 16,
+    "events": 381610,
+    "chat_messages": 183485,
+    "computer_use_turns": 2510487,
+    "computer_use_sessions": 78362,
+    "agent_memories": 246151,
+    "summaries": 939,
+    "claude_code_messages": 244820,
+    "claude_code_sessions": 303
+  }
+}
