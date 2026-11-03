@@ -23,7 +23,7 @@ contourpy==1.4.0
 cryptography==50.0.2
 cycler==0.12.1
 detect-installer==0.2.1
-dnspython==2.8.0
+dnspython==2.9.0
 email-validator==2.3.0
 fastapi==0.142.2
 fastapi-cli==0.0.32
